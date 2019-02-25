@@ -1,4 +1,3 @@
-
 //<![CDATA[
 var disqus_shortname="fkgs";
 var disqus_url = disqus_blogger_current_url;
